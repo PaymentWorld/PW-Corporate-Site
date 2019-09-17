@@ -24,27 +24,6 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PW Corporate Site", ".", "{
 		SlnRelativePath = "..\PW Corporate Site\"
 	EndProjectSection
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "NMC Corporate Site", "..\NMC Corporate Site\", "{0E411BAC-B8CF-4B5D-816F-47BD4C7F2CED}"
-	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_12888"
-		Debug.AspNetCompiler.PhysicalPath = "..\NMC Corporate Site\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_12888\"
-		Debug.AspNetCompiler.Updateable = "true"
-		Debug.AspNetCompiler.ForceOverwrite = "true"
-		Debug.AspNetCompiler.FixedNames = "false"
-		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_12888"
-		Release.AspNetCompiler.PhysicalPath = "..\NMC Corporate Site\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_12888\"
-		Release.AspNetCompiler.Updateable = "true"
-		Release.AspNetCompiler.ForceOverwrite = "true"
-		Release.AspNetCompiler.FixedNames = "false"
-		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "12888"
-		SlnRelativePath = "..\NMC Corporate Site\"
-	EndProjectSection
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NMC Corp Site", "..\NMC Corporate Site_New\NMC Corp Site\NMC Corp Site.csproj", "{ADCEBFAB-EC07-46CA-B24E-6E499D9E4CF3}"
 EndProject
 Global
@@ -57,10 +36,6 @@ Global
 		{E39EE777-C5EF-4DCF-9753-59EBC2FD8C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E39EE777-C5EF-4DCF-9753-59EBC2FD8C75}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{E39EE777-C5EF-4DCF-9753-59EBC2FD8C75}.Release|Any CPU.Build.0 = Debug|Any CPU
-		{0E411BAC-B8CF-4B5D-816F-47BD4C7F2CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0E411BAC-B8CF-4B5D-816F-47BD4C7F2CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0E411BAC-B8CF-4B5D-816F-47BD4C7F2CED}.Release|Any CPU.ActiveCfg = Debug|Any CPU
-		{0E411BAC-B8CF-4B5D-816F-47BD4C7F2CED}.Release|Any CPU.Build.0 = Debug|Any CPU
 		{ADCEBFAB-EC07-46CA-B24E-6E499D9E4CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{ADCEBFAB-EC07-46CA-B24E-6E499D9E4CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADCEBFAB-EC07-46CA-B24E-6E499D9E4CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
